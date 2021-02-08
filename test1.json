@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "1@ya.ru",
+      "password": "password1"
+    },
+    {
+      "name": "2@ya.ru",
+      "password": "password2"
+    },
+    {
+      "name": "3@ya.ru",
+      "password": "password3"
+    }
+  ]
+}
